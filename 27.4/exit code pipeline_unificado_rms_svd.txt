@@ -1,0 +1,981 @@
+  Descargando catálogo oficial GWTC...
+Catálogo descargado: 219 eventos.
+
+GW150914 (GPS 1126259462.4): atractor = 0.3653
+  H1: 17/32 (53.1%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW151012 (GPS 1128678900.4): atractor = 0.3678
+  H1: 9/32 (28.1%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW151226 (GPS 1135136350.6): atractor = 0.3744
+  H1: 14/32 (43.8%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW170104 (GPS 1167559936.6): atractor = 0.4075
+  H1: 0/32 (0.0%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW170608 (GPS 1180922494.5): atractor = 0.4211
+  H1: 6/32 (18.8%)
+  L1: 15/32 (46.9%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW170729 (GPS 1185389807.3): atractor = 0.4257
+  H1: 17/32 (53.1%)
+  L1: 19/32 (59.4%)
+  V1: 17/32 (53.1%)
+GW170809 (GPS 1186302519.8): atractor = 0.4266
+  H1: 0/32 (0.0%)
+  L1: 15/32 (46.9%)
+  V1: 23/32 (71.9%)
+GW170814 (GPS 1186741861.5): atractor = 0.4271
+  H1: 0/32 (0.0%)
+  L1: 20/32 (62.5%)
+  V1: 19/32 (59.4%)
+GW170817 (GPS 1187008882.4): atractor = 0.4274
+  H1: 0/32 (0.0%)
+  L1: 24/32 (75.0%)
+  V1: 24/32 (75.0%)
+GW170818 (GPS 1187058327.1): atractor = 0.4274
+  H1: 0/32 (0.0%)
+  L1: 23/32 (71.9%)
+  V1: 21/32 (65.6%)
+GW170823 (GPS 1187529256.5): atractor = 0.4279
+  H1: 0/32 (0.0%)
+  L1: 23/32 (71.9%)
+  V1: 0/32 (0.0%)
+GW190403_051519 (GPS 1238303737.2): atractor = 0.4797
+  H1: 3/32 (9.4%)
+  L1: 19/32 (59.4%)
+  V1: 21/32 (65.6%)
+GW190408_181802 (GPS 1238782700.2): atractor = 0.4802
+  H1: 1/32 (3.1%)
+  L1: 20/32 (62.5%)
+  V1: 14/32 (43.8%)
+GW190412 (GPS 1239082262.1): atractor = 0.4805
+  H1: 2/32 (6.2%)
+  L1: 23/32 (71.9%)
+  V1: 11/32 (34.4%)
+GW190413_052954 (GPS 1239168612.5): atractor = 0.4806
+  H1: 3/32 (9.4%)
+  L1: 17/32 (53.1%)
+  V1: 8/32 (25.0%)
+GW190413_134308 (GPS 1239198206.7): atractor = 0.4807
+  H1: 2/32 (6.2%)
+  L1: 14/32 (43.8%)
+  V1: 11/32 (34.4%)
+GW190421_213856 (GPS 1239917954.2): atractor = 0.4814
+  H1: 1/32 (3.1%)
+  L1: 17/32 (53.1%)
+  V1: 0/32 (0.0%)
+GW190425 (GPS 1240215503.0): atractor = 0.4817
+  H1: 0/32 (0.0%)
+  L1: 17/32 (53.1%)
+  V1: 21/32 (65.6%)
+GW190426_190642 (GPS 1240340820.6): atractor = 0.4818
+  H1: 18/32 (56.2%)
+  L1: 19/32 (59.4%)
+  V1: 18/32 (56.2%)
+GW190503_185404 (GPS 1240944862.2): atractor = 0.4824
+  H1: 10/32 (31.2%)
+  L1: 19/32 (59.4%)
+  V1: 21/32 (65.6%)
+GW190512_180714 (GPS 1241719652.4): atractor = 0.4832
+  H1: 10/32 (31.2%)
+  L1: 19/32 (59.4%)
+  V1: 22/32 (68.8%)
+GW190513_205428 (GPS 1241816086.7): atractor = 0.4833
+  H1: 14/32 (43.8%)
+  L1: 21/32 (65.6%)
+  V1: 3/32 (9.4%)
+GW190514_065416 (GPS 1241852074.8): atractor = 0.4834
+  H1: 15/32 (46.9%)
+  L1: 15/32 (46.9%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW190517_055101 (GPS 1242107479.8): atractor = 0.4836
+  H1: 25/32 (78.1%)
+  L1: 18/32 (56.2%)
+  V1: 17/32 (53.1%)
+GW190519_153544 (GPS 1242315362.3): atractor = 0.4838
+  H1: 9/32 (28.1%)
+  L1: 22/32 (68.8%)
+  V1: 22/32 (68.8%)
+GW190521 (GPS 1242442967.4): atractor = 0.4840
+  H1: 15/32 (46.9%)
+  L1: 18/32 (56.2%)
+  V1: 17/32 (53.1%)
+GW190521_074359 (GPS 1242459857.4): atractor = 0.4840
+  H1: 13/32 (40.6%)
+  L1: 16/32 (50.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW190527_092055 (GPS 1242984073.7): atractor = 0.4845
+  H1: 11/32 (34.4%)
+  L1: 17/32 (53.1%)
+  V1: 0/32 (0.0%)
+GW190602_175927 (GPS 1243533585.0): atractor = 0.4851
+  H1: 22/32 (68.8%)
+  L1: 13/32 (40.6%)
+  V1: 19/32 (59.4%)
+GW190620_030421 (GPS 1245035079.3): atractor = 0.4866
+  H1: Error – failed to get data from any source (1 sub-exception)
+  L1: 15/32 (46.9%)
+  V1: 9/32 (28.1%)
+GW190630_185205 (GPS 1245955943.1): atractor = 0.4876
+  H1: Error – failed to get data from any source (1 sub-exception)
+  L1: 18/32 (56.2%)
+  V1: 10/32 (31.2%)
+GW190701_203306 (GPS 1246048404.5): atractor = 0.4876
+  H1: 12/32 (37.5%)
+  L1: 18/32 (56.2%)
+  V1: 13/32 (40.6%)
+GW190706_222641 (GPS 1246487219.3): atractor = 0.4881
+  H1: 10/32 (31.2%)
+  L1: 9/32 (28.1%)
+  V1: 1/32 (3.1%)
+GW190707_093326 (GPS 1246527224.1): atractor = 0.4881
+  H1: 12/32 (37.5%)
+  L1: 18/32 (56.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW190708_232457 (GPS 1246663515.3): atractor = 0.4883
+  H1: Error – failed to get data from any source (1 sub-exception)
+  L1: 17/32 (53.1%)
+  V1: 0/32 (0.0%)
+GW190719_215514 (GPS 1247608532.9): atractor = 0.4892
+  H1: 20/32 (62.5%)
+  L1: 17/32 (53.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW190720_000836 (GPS 1247616534.7): atractor = 0.4892
+  H1: 15/32 (46.9%)
+  L1: 23/32 (71.9%)
+  V1: 8/32 (25.0%)
+GW190725_174728 (GPS 1248112066.4): atractor = 0.4898
+  H1: 0/32 (0.0%)
+  L1: 21/32 (65.6%)
+  V1: 10/32 (31.2%)
+GW190727_060333 (GPS 1248242631.9): atractor = 0.4899
+  H1: 0/32 (0.0%)
+  L1: 20/32 (62.5%)
+  V1: 14/32 (43.8%)
+GW190728_064510 (GPS 1248331528.5): atractor = 0.4900
+  H1: 0/32 (0.0%)
+  L1: 20/32 (62.5%)
+  V1: 5/32 (15.6%)
+GW190731_140936 (GPS 1248617394.6): atractor = 0.4903
+  H1: 3/32 (9.4%)
+  L1: 14/32 (43.8%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW190803_022701 (GPS 1248834439.8): atractor = 0.4905
+  H1: 2/32 (6.2%)
+  L1: 17/32 (53.1%)
+  V1: 6/32 (18.8%)
+GW190805_211137 (GPS 1249074715.3): atractor = 0.4907
+  H1: 6/32 (18.8%)
+  L1: 22/32 (68.8%)
+  V1: 11/32 (34.4%)
+GW190814 (GPS 1249852257.0): atractor = 0.4915
+  H1: 3/32 (9.4%)
+  L1: 13/32 (40.6%)
+  V1: 0/32 (0.0%)
+GW190828_063405 (GPS 1251009263.7): atractor = 0.4927
+  H1: 13/32 (40.6%)
+  L1: 17/32 (53.1%)
+  V1: 0/32 (0.0%)
+GW190828_065509 (GPS 1251010527.8): atractor = 0.4927
+  H1: 15/32 (46.9%)
+  L1: 17/32 (53.1%)
+  V1: 3/32 (9.4%)
+GW190910_112807 (GPS 1252150105.3): atractor = 0.4939
+  H1: 0/32 (0.0%)
+  L1: 19/32 (59.4%)
+  V1: 4/32 (12.5%)
+GW190915_235702 (GPS 1252627040.6): atractor = 0.4944
+  H1: 3/32 (9.4%)
+  L1: 19/32 (59.4%)
+  V1: 1/32 (3.1%)
+GW190916_200658 (GPS 1252699636.9): atractor = 0.4944
+  H1: 7/32 (21.9%)
+  L1: 17/32 (53.1%)
+  V1: 20/32 (62.5%)
+GW190917_114630 (GPS 1252756008.0): atractor = 0.4945
+  H1: 11/32 (34.4%)
+  L1: 16/32 (50.0%)
+  V1: 6/32 (18.8%)
+GW190924_021846 (GPS 1253326744.8): atractor = 0.4951
+  H1: 7/32 (21.9%)
+  L1: 13/32 (40.6%)
+  V1: 15/32 (46.9%)
+GW190925_232845 (GPS 1253489343.1): atractor = 0.4952
+  H1: 2/32 (6.2%)
+  L1: Error – failed to get data from any source (1 sub-exception)
+  V1: 15/32 (46.9%)
+GW190926_050336 (GPS 1253509434.0): atractor = 0.4953
+  H1: 12/32 (37.5%)
+  L1: 10/32 (31.2%)
+  V1: 14/32 (43.8%)
+GW190929_012149 (GPS 1253755327.4): atractor = 0.4955
+  H1: 8/32 (25.0%)
+  L1: 17/32 (53.1%)
+  V1: 20/32 (62.5%)
+GW190930_133541 (GPS 1253885759.2): atractor = 0.4956
+  H1: 15/32 (46.9%)
+  L1: 21/32 (65.6%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW191103_012549 (GPS 1256779567.5): atractor = 0.4986
+  H1: 8/32 (25.0%)
+  L1: 0/32 (0.0%)
+  V1: 0/32 (0.0%)
+GW191105_143521 (GPS 1256999739.9): atractor = 0.4988
+  H1: 10/32 (31.2%)
+  L1: 22/32 (68.8%)
+  V1: 4/32 (12.5%)
+GW191109_010717 (GPS 1257296855.2): atractor = 0.4991
+  H1: 7/32 (21.9%)
+  L1: 6/32 (18.8%)
+  V1: 0/32 (0.0%)
+GW191113_071753 (GPS 1257664691.8): atractor = 0.4995
+  H1: 12/32 (37.5%)
+  L1: 14/32 (43.8%)
+  V1: 4/32 (12.5%)
+GW191126_115259 (GPS 1258804397.6): atractor = 0.5007
+  H1: 9/32 (28.1%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW191127_050227 (GPS 1258866165.5): atractor = 0.5007
+  H1: 13/32 (40.6%)
+  L1: 11/32 (34.4%)
+  V1: 3/32 (9.4%)
+GW191129_134029 (GPS 1259070047.1): atractor = 0.5009
+  H1: 7/32 (21.9%)
+  L1: 15/32 (46.9%)
+  V1: 0/32 (0.0%)
+GW191204_110529 (GPS 1259492747.5): atractor = 0.5014
+  H1: 10/32 (31.2%)
+  L1: 11/32 (34.4%)
+  V1: 2/32 (6.2%)
+GW191204_171526 (GPS 1259514944.0): atractor = 0.5014
+  H1: 12/32 (37.5%)
+  L1: 12/32 (37.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW191215_223052 (GPS 1260484270.3): atractor = 0.5024
+  H1: 10/32 (31.2%)
+  L1: 13/32 (40.6%)
+  V1: 15/32 (46.9%)
+GW191216_213338 (GPS 1260567236.4): atractor = 0.5025
+  H1: 11/32 (34.4%)
+  L1: Error – failed to get data from any source (1 sub-exception)
+  V1: 8/32 (25.0%)
+GW191219_163120 (GPS 1260808298.4): atractor = 0.5027
+  H1: 9/32 (28.1%)
+  L1: 11/32 (34.4%)
+  V1: 4/32 (12.5%)
+GW191222_033537 (GPS 1261020955.1): atractor = 0.5029
+  H1: 11/32 (34.4%)
+  L1: 7/32 (21.9%)
+  V1: 0/32 (0.0%)
+GW191230_180458 (GPS 1261764316.4): atractor = 0.5037
+  H1: 8/32 (25.0%)
+  L1: 12/32 (37.5%)
+  V1: 6/32 (18.8%)
+GW200112_155838 (GPS 1262879936.0): atractor = 0.5048
+  H1: Error – failed to get data from any source (1 sub-exception)
+  L1: 15/32 (46.9%)
+  V1: 14/32 (43.8%)
+GW200115_042309 (GPS 1263097407.7): atractor = 0.5051
+  H1: 7/32 (21.9%)
+  L1: 17/32 (53.1%)
+  V1: 0/32 (0.0%)
+GW200128_022011 (GPS 1264213229.9): atractor = 0.5062
+  H1: 12/32 (37.5%)
+  L1: 18/32 (56.2%)
+  V1: 0/32 (0.0%)
+GW200129_065458 (GPS 1264316116.4): atractor = 0.5063
+  H1: 6/32 (18.8%)
+  L1: 19/32 (59.4%)
+  V1: 8/32 (25.0%)
+GW200202_154313 (GPS 1264693411.5): atractor = 0.5067
+  H1: 15/32 (46.9%)
+  L1: 19/32 (59.4%)
+  V1: 14/32 (43.8%)
+GW200208_130117 (GPS 1265202095.9): atractor = 0.5072
+  H1: 2/32 (6.2%)
+  L1: 15/32 (46.9%)
+  V1: 16/32 (50.0%)
+GW200208_222617 (GPS 1265235995.9): atractor = 0.5072
+  H1: 0/32 (0.0%)
+  L1: 17/32 (53.1%)
+  V1: 17/32 (53.1%)
+GW200209_085452 (GPS 1265273710.1): atractor = 0.5073
+  H1: 4/32 (12.5%)
+  L1: 11/32 (34.4%)
+  V1: 21/32 (65.6%)
+GW200210_092254 (GPS 1265361792.9): atractor = 0.5074
+  H1: 11/32 (34.4%)
+  L1: 14/32 (43.8%)
+  V1: 21/32 (65.6%)
+GW200216_220804 (GPS 1265926102.8): atractor = 0.5079
+  H1: 21/32 (65.6%)
+  L1: 17/32 (53.1%)
+  V1: 19/32 (59.4%)
+GW200219_094415 (GPS 1266140673.1): atractor = 0.5082
+  H1: 12/32 (37.5%)
+  L1: 16/32 (50.0%)
+  V1: 12/32 (37.5%)
+GW200220_061928 (GPS 1266214786.7): atractor = 0.5082
+  H1: 7/32 (21.9%)
+  L1: 18/32 (56.2%)
+  V1: 8/32 (25.0%)
+GW200220_124850 (GPS 1266238148.1): atractor = 0.5083
+  H1: 10/32 (31.2%)
+  L1: 16/32 (50.0%)
+  V1: 0/32 (0.0%)
+GW200224_222234 (GPS 1266618172.4): atractor = 0.5087
+  H1: 3/32 (9.4%)
+  L1: 19/32 (59.4%)
+  V1: 12/32 (37.5%)
+GW200225_060421 (GPS 1266645879.3): atractor = 0.5087
+  H1: 9/32 (28.1%)
+  L1: 17/32 (53.1%)
+  V1: 0/32 (0.0%)
+GW200302_015811 (GPS 1267149509.5): atractor = 0.5092
+  H1: 12/32 (37.5%)
+  L1: Error – failed to get data from any source (1 sub-exception)
+  V1: 2/32 (6.2%)
+GW200306_093714 (GPS 1267522652.1): atractor = 0.5096
+  H1: 5/32 (15.6%)
+  L1: 13/32 (40.6%)
+  V1: 0/32 (0.0%)
+GW200308_173609 (GPS 1267724187.7): atractor = 0.5098
+  H1: 11/32 (34.4%)
+  L1: 15/32 (46.9%)
+  V1: 12/32 (37.5%)
+GW200311_115853 (GPS 1267963151.3): atractor = 0.5100
+  H1: 18/32 (56.2%)
+  L1: 23/32 (71.9%)
+  V1: 7/32 (21.9%)
+GW200316_215756 (GPS 1268431094.1): atractor = 0.5105
+  H1: 15/32 (46.9%)
+  L1: 19/32 (59.4%)
+  V1: 4/32 (12.5%)
+GW200322_091133 (GPS 1268903511.3): atractor = 0.5110
+  H1: 12/32 (37.5%)
+  L1: 17/32 (53.1%)
+  V1: 1/32 (3.1%)
+GW230518_125908 (GPS 1368449966.2): atractor = 0.6126
+  H1: 0/32 (0.0%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230529_181500 (GPS 1369419318.7): atractor = 0.6136
+  H1: Error – failed to get data from any source (1 sub-exception)
+  L1: 7/32 (21.9%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230531_141100 (GPS 1369577478.3): atractor = 0.6138
+  H1: Error – failed to get data from any source (1 sub-exception)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230601_224134 (GPS 1369694512.1): atractor = 0.6139
+  H1: 1/32 (3.1%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230603_174756 (GPS 1369849694.9): atractor = 0.6141
+  H1: 1/32 (3.1%)
+  L1: 6/32 (18.8%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230605_065343 (GPS 1369983241.5): atractor = 0.6142
+  H1: 2/32 (6.2%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230606_004305 (GPS 1370047403.8): atractor = 0.6143
+  H1: 3/32 (9.4%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230606_024545 (GPS 1370054763.5): atractor = 0.6143
+  H1: 1/32 (3.1%)
+  L1: 8/32 (25.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230608_205047 (GPS 1370292665.2): atractor = 0.6145
+  H1: 5/32 (15.6%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230609_010824 (GPS 1370308122.4): atractor = 0.6145
+  H1: 1/32 (3.1%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230609_064958 (GPS 1370328616.3): atractor = 0.6146
+  H1: 4/32 (12.5%)
+  L1: 7/32 (21.9%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230615_160825 (GPS 1370880524.0): atractor = 0.6151
+  H1: 6/32 (18.8%)
+  L1: 5/32 (15.6%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230618_102550 (GPS 1371119168.0): atractor = 0.6154
+  H1: 1/32 (3.1%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230624_113103 (GPS 1371641481.7): atractor = 0.6159
+  H1: 3/32 (9.4%)
+  L1: 5/32 (15.6%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230624_214944 (GPS 1371678602.5): atractor = 0.6159
+  H1: 2/32 (6.2%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230625_211655 (GPS 1371763033.0): atractor = 0.6160
+  H1: 3/32 (9.4%)
+  L1: 7/32 (21.9%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230627_015337 (GPS 1371866035.8): atractor = 0.6161
+  H1: 3/32 (9.4%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230628_231200 (GPS 1372029138.4): atractor = 0.6163
+  H1: 4/32 (12.5%)
+  L1: 6/32 (18.8%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230630_070659 (GPS 1372144037.0): atractor = 0.6164
+  H1: 0/32 (0.0%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230630_125806 (GPS 1372165104.9): atractor = 0.6164
+  H1: 0/32 (0.0%)
+  L1: 8/32 (25.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230630_234532 (GPS 1372203950.4): atractor = 0.6165
+  H1: 0/32 (0.0%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230702_162025 (GPS 1372350043.9): atractor = 0.6166
+  H1: 1/32 (3.1%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230702_185453 (GPS 1372359311.7): atractor = 0.6166
+  H1: 0/32 (0.0%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230704_021211 (GPS 1372471949.2): atractor = 0.6168
+  H1: 3/32 (9.4%)
+  L1: 5/32 (15.6%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230704_212616 (GPS 1372541194.7): atractor = 0.6168
+  H1: 0/32 (0.0%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230706_104333 (GPS 1372675431.2): atractor = 0.6170
+  H1: 0/32 (0.0%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230707_124047 (GPS 1372768865.3): atractor = 0.6171
+  H1: 0/32 (0.0%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230708_053705 (GPS 1372829843.1): atractor = 0.6171
+  H1: 1/32 (3.1%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230708_071859 (GPS 1372835957.4): atractor = 0.6171
+  H1: 3/32 (9.4%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230708_230935 (GPS 1372892993.5): atractor = 0.6172
+  H1: 6/32 (18.8%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230709_063445 (GPS 1372919703.1): atractor = 0.6172
+  H1: 0/32 (0.0%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230709_122727 (GPS 1372940865.2): atractor = 0.6172
+  H1: 3/32 (9.4%)
+  L1: 6/32 (18.8%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230712_090405 (GPS 1373187863.9): atractor = 0.6175
+  H1: 0/32 (0.0%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230717_102139 (GPS 1373624517.1): atractor = 0.6179
+  H1: 2/32 (6.2%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230721_222634 (GPS 1374013612.8): atractor = 0.6183
+  H1: 2/32 (6.2%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230723_084820 (GPS 1374137318.4): atractor = 0.6185
+  H1: 2/32 (6.2%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230723_101834 (GPS 1374142732.4): atractor = 0.6185
+  H1: 5/32 (15.6%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230726_002940 (GPS 1374366598.1): atractor = 0.6187
+  H1: 0/32 (0.0%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230728_083628 (GPS 1374568606.9): atractor = 0.6189
+  H1: 0/32 (0.0%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230729_082317 (GPS 1374654215.2): atractor = 0.6190
+  H1: 0/32 (0.0%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230731_215307 (GPS 1374875605.9): atractor = 0.6192
+  H1: 0/32 (0.0%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230803_033412 (GPS 1375068870.4): atractor = 0.6194
+  H1: 3/32 (9.4%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230805_034249 (GPS 1375242188.0): atractor = 0.6196
+  H1: 5/32 (15.6%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230806_204041 (GPS 1375389659.9): atractor = 0.6197
+  H1: 3/32 (9.4%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230807_205045 (GPS 1375476663.4): atractor = 0.6198
+  H1: 5/32 (15.6%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230811_032116 (GPS 1375759294.3): atractor = 0.6201
+  H1: 3/32 (9.4%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230814_061920 (GPS 1376029178.5): atractor = 0.6204
+  H1: 1/32 (3.1%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230814_230901 (GPS 1376089759.8): atractor = 0.6204
+  H1: 0/32 (0.0%)
+  L1: 6/32 (18.8%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230817_212349 (GPS 1376342647.1): atractor = 0.6207
+  H1: 1/32 (3.1%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230819_171910 (GPS 1376500768.4): atractor = 0.6209
+  H1: 0/32 (0.0%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230820_212515 (GPS 1376601934.0): atractor = 0.6210
+  H1: 4/32 (12.5%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230822_230337 (GPS 1376780635.5): atractor = 0.6212
+  H1: 3/32 (9.4%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230823_142524 (GPS 1376835942.6): atractor = 0.6212
+  H1: 4/32 (12.5%)
+  L1: 5/32 (15.6%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230824_033047 (GPS 1376883065.7): atractor = 0.6213
+  H1: 4/32 (12.5%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230824_135331 (GPS 1376920429.9): atractor = 0.6213
+  H1: 7/32 (21.9%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230825_041334 (GPS 1376972032.5): atractor = 0.6214
+  H1: 1/32 (3.1%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230830_064744 (GPS 1377413282.2): atractor = 0.6218
+  H1: 9/32 (28.1%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230831_015414 (GPS 1377482072.1): atractor = 0.6219
+  H1: 3/32 (9.4%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230831_134621 (GPS 1377524799.7): atractor = 0.6219
+  H1: 3/32 (9.4%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230902_122814 (GPS 1377692912.9): atractor = 0.6221
+  H1: 2/32 (6.2%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230902_172430 (GPS 1377710688.8): atractor = 0.6221
+  H1: 2/32 (6.2%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230902_224555 (GPS 1377729973.7): atractor = 0.6221
+  H1: 4/32 (12.5%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230904_051013 (GPS 1377839431.1): atractor = 0.6222
+  H1: 3/32 (9.4%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230904_152545 (GPS 1377876363.2): atractor = 0.6223
+  H1: 3/32 (9.4%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230911_195324 (GPS 1378497222.2): atractor = 0.6229
+  H1: 2/32 (6.2%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230914_111401 (GPS 1378725259.7): atractor = 0.6231
+  H1: 3/32 (9.4%)
+  L1: 6/32 (18.8%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230919_215712 (GPS 1379195850.0): atractor = 0.6236
+  H1: 6/32 (18.8%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230920_064709 (GPS 1379227647.3): atractor = 0.6237
+  H1: 4/32 (12.5%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230920_071124 (GPS 1379229102.7): atractor = 0.6237
+  H1: 4/32 (12.5%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230922_020344 (GPS 1379383442.9): atractor = 0.6238
+  H1: 1/32 (3.1%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230922_040658 (GPS 1379390836.1): atractor = 0.6238
+  H1: 2/32 (6.2%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230924_124453 (GPS 1379594711.8): atractor = 0.6240
+  H1: Error – failed to get data from any source (1 sub-exception)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230925_143957 (GPS 1379688015.5): atractor = 0.6241
+  H1: 2/32 (6.2%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230927_043729 (GPS 1379824667.1): atractor = 0.6243
+  H1: 4/32 (12.5%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230927_153832 (GPS 1379864330.9): atractor = 0.6243
+  H1: 5/32 (15.6%)
+  L1: 5/32 (15.6%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230928_215827 (GPS 1379973525.1): atractor = 0.6244
+  H1: 4/32 (12.5%)
+  L1: 5/32 (15.6%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW230930_110730 (GPS 1380107268.4): atractor = 0.6246
+  H1: 2/32 (6.2%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231001_140220 (GPS 1380204158.7): atractor = 0.6247
+  H1: 1/32 (3.1%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231002_143916 (GPS 1380292774.7): atractor = 0.6247
+  H1: 6/32 (18.8%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231004_232346 (GPS 1380497044.3): atractor = 0.6250
+  H1: 5/32 (15.6%)
+  L1: 5/32 (15.6%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231005_021030 (GPS 1380507049.0): atractor = 0.6250
+  H1: 4/32 (12.5%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231005_091549 (GPS 1380532567.5): atractor = 0.6250
+  H1: 1/32 (3.1%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231005_144455 (GPS 1380552313.4): atractor = 0.6250
+  H1: 3/32 (9.4%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231008_142521 (GPS 1380810339.8): atractor = 0.6253
+  H1: 2/32 (6.2%)
+  L1: 5/32 (15.6%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231013_135504 (GPS 1381240522.4): atractor = 0.6257
+  H1: 2/32 (6.2%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231014_040532 (GPS 1381291551.0): atractor = 0.6258
+  H1: 6/32 (18.8%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231018_233037 (GPS 1381707055.0): atractor = 0.6262
+  H1: 2/32 (6.2%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231020_142947 (GPS 1381847405.6): atractor = 0.6263
+  H1: 4/32 (12.5%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231026_130704 (GPS 1382360842.2): atractor = 0.6269
+  H1: 0/32 (0.0%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231028_153006 (GPS 1382542224.3): atractor = 0.6270
+  H1: 5/32 (15.6%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231029_111508 (GPS 1382613326.8): atractor = 0.6271
+  H1: Error – failed to get data from any source (1 sub-exception)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231102_052214 (GPS 1382937752.4): atractor = 0.6274
+  H1: 6/32 (18.8%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231102_071736 (GPS 1382944674.4): atractor = 0.6275
+  H1: 5/32 (15.6%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231102_232433 (GPS 1383002691.5): atractor = 0.6275
+  H1: 1/32 (3.1%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231104_133418 (GPS 1383140076.9): atractor = 0.6276
+  H1: 4/32 (12.5%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231108_125142 (GPS 1383483120.5): atractor = 0.6280
+  H1: 3/32 (9.4%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231110_040320 (GPS 1383624218.2): atractor = 0.6281
+  H1: 0/32 (0.0%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231113_122623 (GPS 1383913601.9): atractor = 0.6284
+  H1: 1/32 (3.1%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231113_150041 (GPS 1383922859.4): atractor = 0.6284
+  H1: 1/32 (3.1%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231113_200417 (GPS 1383941075.9): atractor = 0.6285
+  H1: 1/32 (3.1%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231114_043211 (GPS 1383971549.2): atractor = 0.6285
+  H1: 0/32 (0.0%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231118_005626 (GPS 1384304204.8): atractor = 0.6288
+  H1: 0/32 (0.0%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231118_071402 (GPS 1384326860.2): atractor = 0.6289
+  H1: 5/32 (15.6%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231118_090602 (GPS 1384333580.0): atractor = 0.6289
+  H1: 3/32 (9.4%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231119_075248 (GPS 1384415586.1): atractor = 0.6290
+  H1: 3/32 (9.4%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231120_022103 (GPS 1384482081.0): atractor = 0.6290
+  H1: 3/32 (9.4%)
+  L1: 4/32 (12.5%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231123_135430 (GPS 1384782888.7): atractor = 0.6293
+  H1: 2/32 (6.2%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231126_010928 (GPS 1384996186.3): atractor = 0.6295
+  H1: 1/32 (3.1%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231127_165300 (GPS 1385139198.9): atractor = 0.6297
+  H1: 3/32 (9.4%)
+  L1: 6/32 (18.8%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231129_081745 (GPS 1385281083.6): atractor = 0.6298
+  H1: 3/32 (9.4%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231204_090648 (GPS 1385716026.9): atractor = 0.6303
+  H1: 1/32 (3.1%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231206_010629 (GPS 1385860007.2): atractor = 0.6304
+  H1: 1/32 (3.1%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231206_233134 (GPS 1385940712.5): atractor = 0.6305
+  H1: 1/32 (3.1%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231206_233901 (GPS 1385941159.5): atractor = 0.6305
+  H1: 3/32 (9.4%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231213_111417 (GPS 1386501275.9): atractor = 0.6311
+  H1: 2/32 (6.2%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231220_173406 (GPS 1387128864.2): atractor = 0.6317
+  H1: 2/32 (6.2%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231221_135041 (GPS 1387201859.3): atractor = 0.6318
+  H1: 1/32 (3.1%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231223_032836 (GPS 1387337334.1): atractor = 0.6319
+  H1: 4/32 (12.5%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231223_075055 (GPS 1387353073.3): atractor = 0.6320
+  H1: 5/32 (15.6%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231223_202619 (GPS 1387398397.0): atractor = 0.6320
+  H1: 0/32 (0.0%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231224_024321 (GPS 1387421020.0): atractor = 0.6320
+  H1: 0/32 (0.0%)
+  L1: 3/32 (9.4%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231226_101520 (GPS 1387620938.3): atractor = 0.6322
+  H1: 3/32 (9.4%)
+  L1: 2/32 (6.2%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231230_170116 (GPS 1387990895.0): atractor = 0.6326
+  H1: 3/32 (9.4%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231231_120147 (GPS 1388059325.6): atractor = 0.6327
+  H1: 1/32 (3.1%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW231231_154016 (GPS 1388072434.7): atractor = 0.6327
+  H1: 3/32 (9.4%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW240104_164932 (GPS 1388422190.6): atractor = 0.6330
+  H1: 3/32 (9.4%)
+  L1: 0/32 (0.0%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW240105_151143 (GPS 1388502721.2): atractor = 0.6331
+  H1: 0/32 (0.0%)
+  L1: Error – failed to get data from any source (1 sub-exception)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW240107_013215 (GPS 1388626353.7): atractor = 0.6333
+  H1: 0/32 (0.0%)
+  L1: 1/32 (3.1%)
+  V1: Error – failed to get data from any source (1 sub-exception)
+GW240109_050431 (GPS 1388811889.8): atractor = 0.6334
+  H1: 1/32 (3.1%)
+  L1: Error – failed to get data from any source (1 sub-exception)
+  V1: Error – failed to get data from any source (1 sub-exception)
+
+Detecciones guardadas en '/content/resultados_uat/detecciones_atractor.csv' (78 registros).
+
+=== DETECCIONES POSITIVAS ===
+GW150914 (H1): 53.1%
+GW170729 (H1): 53.1%
+GW170729 (L1): 59.4%
+GW170729 (V1): 53.1%
+GW170809 (V1): 71.9%
+GW170814 (L1): 62.5%
+GW170814 (V1): 59.4%
+GW170817 (L1): 75.0%
+GW170817 (V1): 75.0%
+GW170818 (L1): 71.9%
+GW170818 (V1): 65.6%
+GW170823 (L1): 71.9%
+GW190403_051519 (L1): 59.4%
+GW190403_051519 (V1): 65.6%
+GW190408_181802 (L1): 62.5%
+GW190412 (L1): 71.9%
+GW190413_052954 (L1): 53.1%
+GW190421_213856 (L1): 53.1%
+GW190425 (L1): 53.1%
+GW190425 (V1): 65.6%
+GW190426_190642 (H1): 56.2%
+GW190426_190642 (L1): 59.4%
+GW190426_190642 (V1): 56.2%
+GW190503_185404 (L1): 59.4%
+GW190503_185404 (V1): 65.6%
+GW190512_180714 (L1): 59.4%
+GW190512_180714 (V1): 68.8%
+GW190513_205428 (L1): 65.6%
+GW190517_055101 (H1): 78.1%
+GW190517_055101 (L1): 56.2%
+GW190517_055101 (V1): 53.1%
+GW190519_153544 (L1): 68.8%
+GW190519_153544 (V1): 68.8%
+GW190521 (L1): 56.2%
+GW190521 (V1): 53.1%
+GW190527_092055 (L1): 53.1%
+GW190602_175927 (H1): 68.8%
+GW190602_175927 (V1): 59.4%
+GW190630_185205 (L1): 56.2%
+GW190701_203306 (L1): 56.2%
+GW190707_093326 (L1): 56.2%
+GW190708_232457 (L1): 53.1%
+GW190719_215514 (H1): 62.5%
+GW190719_215514 (L1): 53.1%
+GW190720_000836 (L1): 71.9%
+GW190725_174728 (L1): 65.6%
+GW190727_060333 (L1): 62.5%
+GW190728_064510 (L1): 62.5%
+GW190803_022701 (L1): 53.1%
+GW190805_211137 (L1): 68.8%
+GW190828_063405 (L1): 53.1%
+GW190828_065509 (L1): 53.1%
+GW190910_112807 (L1): 59.4%
+GW190915_235702 (L1): 59.4%
+GW190916_200658 (L1): 53.1%
+GW190916_200658 (V1): 62.5%
+GW190929_012149 (L1): 53.1%
+GW190929_012149 (V1): 62.5%
+GW190930_133541 (L1): 65.6%
+GW191105_143521 (L1): 68.8%
+GW200115_042309 (L1): 53.1%
+GW200128_022011 (L1): 56.2%
+GW200129_065458 (L1): 59.4%
+GW200202_154313 (L1): 59.4%
+GW200208_222617 (L1): 53.1%
+GW200208_222617 (V1): 53.1%
+GW200209_085452 (V1): 65.6%
+GW200210_092254 (V1): 65.6%
+GW200216_220804 (H1): 65.6%
+GW200216_220804 (L1): 53.1%
+GW200216_220804 (V1): 59.4%
+GW200220_061928 (L1): 56.2%
+GW200224_222234 (L1): 59.4%
+GW200225_060421 (L1): 53.1%
+GW200311_115853 (H1): 56.2%
+GW200311_115853 (L1): 71.9%
+GW200316_215756 (L1): 59.4%
+GW200322_091133 (L1): 53.1%
+
+=== RESULTADO DE LA TRIANGULACIÓN ===
+Punto A: RA = 124.78°, Dec = 7.85°
+Punto B (antípoda): RA = 304.78°, Dec = -7.85°
+Error RMS del ajuste: 0.4583
+Gráfico guardado en '/content/resultados_uat/triangulacion_atractor.png'
+
+======================================================================
+ CONTROLES ESTADÍSTICOS – SEGMENTOS SIN EVENTOS
+======================================================================
+Segmento ruido GPS 1240000000: no disponible (failed to get data from any source (1 sub-exception))
+Segmento ruido GPS 1170000000: 0.0% aciertos.
+Segmento ruido GPS 1125000000: no disponible (failed to get data from any source (1 sub-exception))
+
+Tasa de falsos positivos en ruido: 0/3
+======================================================================
+Descargando detecciones_atractor.csv...
+Descargando triangulacion_atractor.png...
+
+[Pipeline unificado finalizado.]
